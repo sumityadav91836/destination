@@ -1,0 +1,17 @@
+.list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.destination-image {
+  height: 12.5rem;
+  width: 12.5rem;
+  border-radius: 0.85rem;
+}
+
+.destination-name {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #252627;
+}
